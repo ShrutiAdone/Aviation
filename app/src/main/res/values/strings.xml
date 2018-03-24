@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AeroSoft</string>
+    <string-array name="countries">
+        <item>India</item>
+        <item>New Zealand</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>Philippines</item>
+        <item>USA</item>
+    </string-array>>
+</resources>
